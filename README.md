@@ -9,6 +9,7 @@ Output needs to clearly communicate its purpose.
 Dataset used- SAMPLE_DATASET1
 
 Output- Procedure  with the name question1() is created which can be called later. No parameters needed.
+
 Syntax- call question1()
 
 
@@ -22,6 +23,7 @@ Determine the Volume Weighted Average Price
 Dataset used- SAMPLE_DATASET2
 
 Output- Procedure with the name question2() is created which can be used later. One parameter is required at the time of calling. The paramter is a combination of Date and Time(as found in the date column of the dataset).
+
 Syntax- call question2(201010110900)
 
 Question 3
@@ -35,5 +37,6 @@ Determine the 3 days on which the price increased or decreased the most
 Dataset Used- SAMPLE_DATASET3
 
 Output- Procedure with the name question3() is created which can be used later. No arguments Required. 
+
 Syntax- call question3()
 
